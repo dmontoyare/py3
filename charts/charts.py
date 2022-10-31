@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 def generate_pie_chart():
-    labels = ["Daniel", "Alejandro", "Juan"]
+    labels = ["Daniel", "Pedro", "Juan"]
     values = [200, 40, 70]
 
     fig, ax = plt.subplots()
